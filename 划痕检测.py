@@ -1,5 +1,6 @@
 import cv2
 from skimage.metrics import structural_similarity
+
 import imutils
 import numpy as np
 def cutphoto_A(imgA):   # 标准图 裁剪 模块
