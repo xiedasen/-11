@@ -1,5 +1,4 @@
 import cv2
-#from PIL import Image, ImageDraw, ImageFont
 from skimage.metrics import structural_similarity
 import imutils
 import numpy as np
